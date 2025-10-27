@@ -1,5 +1,6 @@
-assalammualaikum perkenalkan nama saya faadhil abid sakha riyanto
-kali ini saya ingin menjelas kan cara jalan nya program nilai rata-rata
+assalammualaikum perkenalkan nama saya faadhil abid sakha riyanto.
+
+kali ini saya ingin menjelas kan cara jalan nya program nilai rata-rata.
 1.pertama kita masukkan nilai dari A ,setelah di masukkan inputan yang kita masukkan langsung masuk ke variable nilai_a
 2.kedua kita masukkan nilai dari B ,setelah di masukkan inputan yang kita masukkan langsung masuk ke variable nilai_b
 3.ketiga nilai_a dan nilai_b akan di jumlah kan dalam variable rata-rata, setalah di jumlahkan akan di / 2
